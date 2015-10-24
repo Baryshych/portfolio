@@ -1,0 +1,2 @@
+== 20151024175353 CreateMainpages: migrating ==================================
+-- create_table(:mainpages)
